@@ -75,3 +75,5 @@ if (typeof __8d_do_not_want == "undefined") {
 		}
 	}
 }
+
+__8d_init();
